@@ -24,4 +24,4 @@ A Dark Theme created by @pedro-henrique-sb.
 
 ## Credits
 
-Bit Theme is mainly inspired by [Omni Theme](https://github.com/getomni), a dark theme created by @Rocketseat. Thanks @Rocketseat and all the [Omni Theme](https://github.com/getomni) contributors.
+Bit Theme is mainly inspired by [Omni Theme](https://github.com/getomni), a dark theme created by [Rocketseat](https://github.com/rocketseat). Thanks [Rocketseat](https://github.com/rocketseat) and all the [Omni Theme](https://github.com/getomni) contributors.
