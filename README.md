@@ -1,5 +1,4 @@
 <h1 align='center'>
-  <br />
   <img src='./assets/logo.svg' alt='Bit Theme Logo' width='96' />
   <br />
   Bit Theme
