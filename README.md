@@ -6,7 +6,7 @@
 
 A Dark Theme created by @pedro-henrique-sb.
 
-## Color Palette
+## Color Palette Base
 
 | Name                | HEX       | RGB             | Sample |
 | ------------------- | --------- | --------------- | ------ |
